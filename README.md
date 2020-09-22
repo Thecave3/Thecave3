@@ -9,6 +9,6 @@
 </table>
 </center>
 
-  <a href="https://www.youtube.com/watch?v=n_qbGJuxCYY">
+  <a href="https://www.youtube.com/watch?v=n_qbGJuxCYY" target="_blank">
    <img src="https://thumbs.gfycat.com/CloseBareJoey-size_restricted.gif"/>
   </a>
