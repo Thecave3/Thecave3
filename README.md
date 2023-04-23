@@ -3,7 +3,6 @@
 👨‍🎓 Double Ph.D. Candidate at Northeastern University and Sapienza, University of Rome<br>🔭 O-RAN, AI, 5G and Network Security<br>👯 I’m looking to collaborate with students on the above topics<br>🤝 I’m looking for help with enabling the Intelligence in NextG networks<br>🌱 I’m currently learning how to decode ASN1c formats in a less painful way<br>💬 Ask me about ns-O-RAN<br>⚡ Fun fact: I know MrDoggo<br> 📫 How to reach me: [andrealacava.com](https://www.andrealacava.com)
 
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Thecave3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thecave3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lacava-andrea/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Thecave003) 
 
@@ -14,20 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thecave3&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thecave3&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thecave3&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Thecave003)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Thecave3&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Thecave3&icon=0&color=0)](https://visitcount.itsvg.in)
